@@ -1,9 +1,12 @@
-# 📚 Repository Portal
+# 📚 Repository Portal (Level‑3)
 
-Welcome! This auto‑generated homepage indexes all folders and documentation inside this repo.
+Auto‑generated portal with folder cards.
 
-## 🚀 Sections
-This homepage will automatically update when new folders or README.md files are added.
+## 📂 Sections
+(Automatically filled by GitHub Actions)
+
+<div id="folder-cards">
+<!-- cards will be inserted here -->
+</div>
 
 ---
-
