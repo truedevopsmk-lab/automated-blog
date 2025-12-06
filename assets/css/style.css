@@ -1,0 +1,15 @@
+.card-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+}
+.card {
+  border: 1px solid #ccc;
+  padding: 16px;
+  width: 200px;
+  border-radius: 8px;
+  background: #fafafa;
+}
+.card:hover {
+  background: #f0f0f0;
+}
